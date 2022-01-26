@@ -8,7 +8,6 @@
     "dev": "nodemon",
     "build": "tsc",
     "lint": "eslint src/**/*.ts --fix",
-    "format": "prettier --write src/**/*.ts --fix",
     "prepare": "husky install"
   },
   "author": "",
