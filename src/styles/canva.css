@@ -1,0 +1,32 @@
+.canva{
+    cursor: pointer;
+}
+
+.canva{
+    filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.2)) drop-shadow(0px 4px 5px rgba(0,0,0,0.14)) drop-shadow(0px 1px 10px rgba(0,0,0,0.12));
+    transition: .3s;
+}
+
+/* .canva:hover{
+    filter: drop-shadow(0px 4px 5px rgba(0,0,0,0.2)) drop-shadow(0px 7px 10px rgba(0,0,0,0.14)) drop-shadow(0px 2px 16px rgba(0,0,0,0.12));
+} */
+
+.canva-rect{
+    transition:.3s
+}
+
+.canva:hover .canva-rect{
+    fill: rgb(92, 93, 99);
+}
+
+.canva-title{
+    font-size: 19px;
+    font-weight: 500;
+    color:black;
+}
+
+.canva-subtitle{
+    color:rgb(20,20,20);
+    font-size: 17px;
+    font-weight: 400;
+}

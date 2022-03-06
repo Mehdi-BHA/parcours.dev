@@ -1,0 +1,97 @@
+{
+    "name": "Frontend",
+    "roadmap": [
+        {
+            "parent": {
+                "title": "internet",
+                "subtitle":"Internet repose sur la transmission d'informations d'un point à un autre."
+            },
+            "children": [
+                {
+                    "title": "c'est quoi internet?"
+                },
+                {
+                    "title": "c'est quoi HTTP?"
+                },
+                {
+                    "title": "Comment fonctionne un navigateur?"
+                },
+                {
+                    "title": "comment fonctionnent le DNS?"
+                },
+                {
+                    "title": "c'est quoi un nom de domaine?"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "HTML",
+                "subtitle":"Le HyperText Markup Language, généralement abrégé HTML ou, dans sa dernière version"
+            },
+            "children": [
+                {
+                    "title": "Les fondamentaux"
+                },
+                {
+                    "title": "HTML sémantique"
+                },
+                {
+                    "title": "SEO"
+                },
+                {
+                    "title": "conventions et meilleurs pratiques"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "CSS"
+            },
+            "children": [
+                {
+                    "title": "Les fondamentaux"
+                },
+                {
+                    "title": "Layouts",
+                    "subtitle":"Postion, display, modèle de box, flexbox, grid"
+                },
+                {
+                    "title": "Responsive & media queries"
+                }
+                
+            ]
+        },
+        {
+            "parent": {
+                "title": "Javascipt"
+            },
+            "children": [
+                {
+                    "title": "Syntax et les basqiues"
+                },
+                {
+                    "title": "DOM"
+                },
+                {
+                    "title": "ES6"
+                }
+            ]
+        }
+        ,
+        {
+            "parent": {
+                "title": "Gesion de versions",
+                "subtitle":"Github repose sur la transmission d'informations d'un point à un autre."
+            },
+            "children": [
+                {
+                    "title": "Github"
+                },
+                {
+                    "title": "GitLab"
+                }
+            ]
+        }
+    ]
+}

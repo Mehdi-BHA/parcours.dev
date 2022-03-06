@@ -1,0 +1,321 @@
+{
+    "name": "Front-end developer",
+    "description": "Step by step guide to becoming a modern frontend developer in 2022",
+    "guide": [
+        {
+            "parent": {
+                "title": "internet",
+                "subtitle": "The Internet is a vast network that connects computers all over the world."
+            },
+            "children": [
+                {
+                    "title": "How does the internet work?"
+                },
+                {
+                    "title": "What is HTTP?"
+                },
+                {
+                    "title": "Browsers and how they work?"
+                },
+                {
+                    "title": "DNS and how it works?"
+                },
+                {
+                    "title": "What is hosting?"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "HTML",
+                "subtitle": "HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet."
+            },
+            "children": [
+                {
+                    "title": "Learn the basics"
+                },
+                {
+                    "title": "Writing semantic HTML"
+                },
+                {
+                    "title": "Forms and validations"
+                },
+                {
+                    "title": "Conventions and best pratices"
+                },
+                {
+                    "title": "Accessibility"
+                },
+                {
+                    "title": "SEO basics"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "CSS"
+            },
+            "children": [
+                {
+                    "title": "Learn the basics"
+                },
+                {
+                    "title": "Making ayouts",
+                    "subtitle": "Postion, display, box model, flexbox, grid"
+                },
+                {
+                    "title": "Responsive design & media queries"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Javascipt"
+            },
+            "children": [
+                {
+                    "title": "Syntax & basic constructs"
+                },
+                {
+                    "title": "Learn DOM manipulation"
+                },
+                {
+                    "title": "Learn fetch API / Ajax (XHR)"
+                },
+                {
+                    "title": "ES6"
+                },
+                {
+                    "title": "Hoisting, event bubbling, scope, prototype, shadow DOM, strict"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Version control systems",
+                "subtitle": "Git"
+            },
+            "children":[{"title":"test"}]
+        },
+        {
+            "parent": "Repo hosting services",
+            "children": [
+                {
+                    "title": "Github"
+                },
+                {
+                    "title": "GitLab"
+                },
+                {
+                    "title": "Bitbucket"
+                }
+            ]
+        },
+        {
+            "parent": { "title": "Web security knowledge" },
+            "children": [
+                { "title": "HTTPS" },
+                { "title": "Content security policy" },
+                { "title": "CORS" },
+                { "title": "OWASP security risks" }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Package managers"
+            },
+            "children": [
+                {
+                    "title": "npm"
+                },
+                {
+                    "title": "yarn"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "CSS preprocessors"
+            },
+            "children": [
+                {
+                    "title": "Sass"
+                },
+                {
+                    "title": "PostCSS"
+                },
+                {
+                    "title": "Less"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Task runners"
+            },
+            "children": [
+                {
+                    "title": "npm scripts"
+                }
+            ]
+        },
+        {
+            "parent": { "title": "Linters, formatters and other useful tools" },
+            "children": [
+                { "title": "Prettier" },
+                { "title": "ESLint" },
+                { "title": "Husky" },
+                { "title": "Lint staged" }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Module bundlers"
+            },
+            "children": [
+                {
+                    "title": "Webpack"
+                },
+                {
+                    "title": "Esbuild"
+                },
+                {
+                    "title": "Rollup"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Choose a framework/library"
+            },
+            "children": [
+                {
+                    "title": "React js"
+                },
+                {
+                    "title": "Angular"
+                },
+                {
+                    "title": "Vue js"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Modern CSS"
+            },
+            "children": [
+                {
+                    "title": "Styled components"
+                },
+                {
+                    "title": "CSS modules"
+                },
+                {
+                    "title": "Styled JSX"
+                },
+                {
+                    "title": "Emotion"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Web components"
+            },
+            "children": [
+                {
+                    "title": "HTML templates"
+                },
+                {
+                    "title": "Custom elements"
+                },
+                {
+                    "title": "Shadow DOM"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "CSS frameworks"
+            },
+            "children": [
+                {
+                    "title": "Tailwind CSS"
+                },
+                {
+                    "title": "Chakra UI"
+                },
+                {
+                    "title": "Material UI"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Testing your apps"
+            },
+            "children": [
+                {
+                    "title": "Jest"
+                },
+                {
+                    "title": "React-testing-library"
+                },
+                {
+                    "title": "Cypress"
+                },
+                {
+                    "title": "Enzyme"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "Type checkers"
+            },
+            "children": [{ "title": "Typescript" }]
+        },
+        {
+            "parent": {
+                "title": "Progressive web apps (PWA)"
+            },
+            "children":[{"title":"test"}]
+        },
+        {
+            "parent": {
+                "title": "Server side rendering"
+            },
+            "children": [
+                {
+                    "title": "Next.js"
+                },
+                {
+                    "title": "Universal"
+                },
+                {
+                    "title": "Nuxt.js"
+                }
+            ]
+        },
+        {
+            "parent": {
+                "title": "GraphQL"
+            },
+            "children": [{ "title": "Apollo" }, { "title": "Relay modern" }]
+        },
+        {
+            "parent": {
+                "title": "Static site generators (SSG)"
+            },
+            "children": [
+                {
+                    "title": "Next.js"
+                },
+                {
+                    "title": "Gatsby js"
+                }
+            ]
+        }
+    ]
+}
